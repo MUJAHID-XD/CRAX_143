@@ -1,2 +1,2 @@
 import os
-print (CRAX_XD)
+print ("CRAX_XD")
